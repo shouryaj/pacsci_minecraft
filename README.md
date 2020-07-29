@@ -6,6 +6,8 @@ poppy = blue flower
 
 cornflower = red/pink flower 
 
+wither rose(wither_rose) = butterfly and flower
+
 jungle sapling(jungle_sapling) = caterpillar
 
 birch sapling(birch_sapling) = cocoon
