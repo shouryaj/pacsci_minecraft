@@ -1,18 +1,26 @@
 Blocks:
 
 allium = yellow flower
+
 poppy = blue flower
+
 cornflower = red/pink flower 
 
 jungle sapling(jungle_sapling) = caterpillar
+
 birch sapling(birch_sapling) = cocoon
 
 dead brain coral(dead_brain_coral) = sea anemone
+
 dead fire coral(dead_fire_coral) = sea urchin
+
 dead horn coral(dead_horn_coral) = seastar 
 
+
 Entities:
+
 bee = butterfly
+
 
 Feel free to rename the images to a new block/entity name if the ones listed need their original appearance back. 
 One can search for these blocks under creative mode with cheats on. 
