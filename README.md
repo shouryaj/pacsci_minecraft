@@ -23,6 +23,8 @@ Entities:
 
 bee = butterfly
 
+Note that the blocks can only be placed on/in their compatible environments. Ex: plants on dirt, coral underwater. 
+
 
 Feel free to rename the images to a new block/entity name if the ones listed need their original appearance back. 
 One can search for these blocks under creative mode with cheats on. 
@@ -30,5 +32,5 @@ One can summon entities with cheats on and the /summon command. Ex: "/summon min
 
 To include this resource pack in the Pacific Science center map:
 
-1. Compress the contents of this directory into a .zip named "resources"
+1. Compress the asset contents and .mcmeta file of this directory into a .zip named "resources"
 2. Drag this resources.zip into the map's folder. 
